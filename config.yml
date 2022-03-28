@@ -58,10 +58,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Ben Hughes
     subtitle: "Learn, code, build"
-    imageUrl: "content/imgs/personal-splash.jpeg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: Photo by <a href="https://unsplash.com/@flowforfrank?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ferenc Almasi</a> on <a href="https://unsplash.com/s/photos/web-development?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    imageUrl: "img/me.jpeg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: Ben Hughes
     buttons:
       - name: Blog
         url: /blog/
