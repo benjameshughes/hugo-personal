@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://benjameshughes.com"
 title: Ben Hughes
 paginate: 5
 theme: PaperMod
@@ -55,18 +55,18 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Ben Hughes
     subtitle: "Learn, code, build"
-    imageUrl: "resources/images"
+    imageUrl: "content/imgs/personal-splash.jpeg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Photo by <a href="https://unsplash.com/@flowforfrank?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ferenc Almasi</a> on <a href="https://unsplash.com/s/photos/web-development?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Blog
+        url: /blog/
+      - name: Contact Me
+        url: /contact/
 
   # home-info mode
   homeInfoParams:

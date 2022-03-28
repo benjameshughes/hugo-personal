@@ -3,7 +3,7 @@ title: "My 1st post"
 date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
-# tags: ["first"]
+# tags: ["Ben, Hughes, page, info"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -20,7 +20,7 @@ hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
-ShowPostNavLinks: true
+ShowPostNavLinks: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
