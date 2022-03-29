@@ -2,6 +2,7 @@ baseURL: "https://benjameshughes.com"
 title: Ben Hughes
 paginate: 5
 theme: PaperMod
+enableEmoji: true
 
 enableRobotsTXT: true
 buildDrafts: false
